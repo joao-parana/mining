@@ -123,7 +123,7 @@ de probabilidade mínima de ocorrência considerando todo o Database de Transaç
 
 **Definição:** Confiança de X -> Y é a probabilidade conditional de que a transação que contenha um itemset X também contenha o itemset Y. A medida de Confiança envolve um par de Itemsets.
 
-![Confiança](http://www.sciweavers.org/tex2img.php?eq=conf%28X%20%5CRightarrow%20Y%29%20%3D%20%5Cfrac%7B%20supp%28%20X%20%5Ccup%20Y%20%29%7D%7Bsupp%28%20X%20%29%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![Confiança](assets/img/confianca.jpg)
 
 
 **Definição:** Lift
